@@ -1,0 +1,263 @@
+* {padding:0;margin:0;}
+
+html {width:100%;height:100%;}
+body {font-family:Arial, Helvetica, Sans-serif;font-size:14px;line-height:1.5;font-weight:400;color:#000000;background:#f3f2f1;
+}
+
+
+
+
+.container {margin:0 auto;}
+
+header {margin:25px 0;}
+header img {width:100%;}
+
+nav {background:#f3f2f1;
+
+
+
+
+}
+nav ul {list-style:none;text-align: center;}
+nav ul li {margin-bottom:1px; float:left;background:#00ff80; border-right: 1px solid #c0c0c0;font-weight: 100;}
+nav ul li a {display:block;text-decoration:none;color:#f3f2f1;background:#003a2d;/* t³o listy */padding:8px 20px;text-align:left;}
+nav ul li a:hover{background:#ff8000;color:#FFF;}
+
+#main {float:right;margin:0 0 25px;}
+
+footer {clear:both;color:#FFF;background:#003a2d;padding:15px 0 15px 30px;margin:30 0 25px;}
+
+
+@media (min-width: 1100px) {
+	.container {width:1050px;}
+	nav {width:100%;}
+	#main {width:100%;}
+}
+@media (max-width: 1100px) and (min-width: 1000px) {
+	.container {width:950px;}
+	nav {width:100%;}
+	#main {width:100%;}
+}
+@media (max-width: 1000px) and (min-width: 800px) {
+	.container {width:750px;}
+	nav {width:100%;}
+	#main {width:100%;}
+}
+@media (max-width: 800px) and (min-width: 500px) {
+	.container {width:450px;}
+	nav ul li { float:none;}
+	nav ul li a {text-align:center;}
+	#main {width:100%;}
+}
+@media (max-width: 500px) {
+	.container {width:90%;}
+	nav ul li { float:none;}
+	nav ul li a {text-align:center;}
+	#main {width:100%;}
+	}
+	
+	
+	
+	
+	.rekin{
+	width: 100%;
+ 
+	}
+	.rekin > img {
+	
+	
+	    width: 100%;
+    height;auto;
+    display: block;
+	
+	
+	}
+	
+	
+	.ogorek{
+	width: 100%;
+ 
+	}
+	.ogorek > img {
+	
+	
+	    width: 100%;
+    height;auto;
+    display: block;
+	
+	
+	
+	}
+	
+	
+	
+	.galena{
+	width: 100%;
+ 
+	}
+	.galena > img {
+	
+	
+	    width: 100%;
+    height;auto;
+    display: block;
+	
+	
+	
+	}
+	
+	
+		
+	.starfish{
+	width: 100%;
+ 
+	}
+	.starfish > img {
+	
+	
+	    width: 100%;
+    height;auto;
+    display: block;
+	
+	}
+	
+	
+	.kwiat{
+	width: 100%;
+ 
+	}
+	.kwiat > img {
+	
+	
+	    width: 100%;
+    height;auto;
+    display: block;
+	
+	}
+		
+	.honeycomb{
+	width: 100%;
+ 
+	}
+	.honeycomb > img {
+	
+	
+	    width: 100%;
+    height;auto;
+    display: block;
+	
+	
+	
+	}
+	
+	
+		.g{
+	width: 100%;
+ 
+	}
+	.g > img {
+	
+	
+	    width: 100%;
+    height;auto;
+    display: block;
+	
+	
+	
+	}
+	
+	
+	
+			.glowne{
+	width: 100%;
+ 
+	}
+	.glowne > img {
+	
+	
+	    width: 100%;
+    height:auto;
+    display: block;
+	
+	
+	
+	}
+	
+	
+	.trojkat {
+text-align: justify;
+}
+
+
+.wielokat {
+text-align: justify;
+}
+
+
+
+
+h1 {
+  color: #003a2d;
+  font-size: 32px;
+  font-weight: 700;
+  padding: 20px 10px;
+}
+
+
+
+
+
+
+h3 {
+  color:#ff8000;
+  font-size: 26px;
+  font-weight: 700;
+	text-align: center;
+
+  padding: 20px 10px;
+}
+
+	
+	.welcome{
+	
+	
+	width: 100%;
+ 
+	}
+	.welcome > img {
+	
+	
+	    width: 10%;
+    height:auto;
+    display: block;
+	
+}
+
+h4 {
+  color: #ff8000 ;
+  
+  font-weight: 700;
+  padding: 20px 10px;
+}
+
+
+strong {
+  color: #ff8000 ;
+  font-weight: 700;
+}
+
+b {
+  color: #ff8000 ;
+  font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
